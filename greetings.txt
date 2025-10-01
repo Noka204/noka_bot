@@ -1,0 +1,4 @@
+chào
+chào {user} đã đến với {server}
+chào bạn {user} đã đến với server của mình
+chào bạn {user} đã đến với server của mình
